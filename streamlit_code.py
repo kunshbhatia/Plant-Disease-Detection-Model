@@ -7,6 +7,15 @@ from backend_prediction import prediction_plant
 
 st.set_page_config(page_title="Plant Disease Detection",
                    page_icon= "🌿", layout="wide",initial_sidebar_state="expanded")
+
+hide_github_icon = """
+<style>
+#GithubIcon {
+    visibility: hidden;
+}
+</style>
+"""
+st.markdown(hide_github_icon, unsafe_allow_html=True)
  
 st.header("Plant Disease Detector 🌿")
 
