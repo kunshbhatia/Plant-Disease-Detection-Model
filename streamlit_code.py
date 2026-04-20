@@ -127,6 +127,6 @@ with st.expander("How to get ACCURATE Result 💯"):
                     """)
 
 st.markdown("""<p style="margin-top: 40px; text-align: center; color: gray;">
-  © 2025 Kunsh Bhatia | Built with ❤️ and ☕
+  © 2026 Kunsh Bhatia | Built with ❤️ and ☕
 </p>
 """, unsafe_allow_html=True)
